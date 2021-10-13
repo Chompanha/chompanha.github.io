@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+     <link rel="stylesheet" href="style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <script src="script.js" defer></script>
+    </head>
+    <body>
+       
+         <div class="main-content">
+            <h1 class="first">Welcome to Squid Game</h1>
+             <input type="email" id="email" placeholder="Email" required>
+             <input type="password" id="pass" placeholder="Password" required>
+             <input type="Submit" id="submit" >
+         </div>
+         <div class="image none">
+           
+          <div class="logo">
+            <span><i class="far fa-circle"></i></span>
+            <span><i class="fab fa-accusoft"></i></span>
+            <span><i class="far fa-square-full"></i></span>
+        </div>
+        <h1 class="second">Be Seeing You !</h1>
+         </div>
+    </body>
+</html
